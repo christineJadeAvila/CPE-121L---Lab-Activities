@@ -69,11 +69,11 @@ class LogIn {
     }
 
     public void setUseraname(String newUsername){
-            this.username=newUsername;
+            this.username = newUsername;
     }   
 
     public void setPassword(String newPassword){
-            this.password=newPassword;
+            this.password = newPassword;
     }
 }
     
